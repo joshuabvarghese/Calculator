@@ -195,7 +195,7 @@ function main() {
 
     // Division Event
     division.addEventListener('click', () => {
-        console.log('in division')
+        
 
         if (count === true) {
             aHold = numHold.join('');
